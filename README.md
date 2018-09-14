@@ -1,3 +1,1 @@
-# Hellcatlk
-slimple students manger
-4546466
+int dev=2;
