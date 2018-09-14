@@ -1,2 +1,1 @@
-# Hellcatlk
-slimple students manger
+int dev=1;
